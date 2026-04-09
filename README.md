@@ -20,7 +20,7 @@ We first indroduce a method to evaluate and quantify the confidence of cell type
 You can install the development version of **tapas** from GitHub,run the following commands in R:
 ```{r eval = FALSE}
 install.packages("devtools")
-devtools::install_github("Anonymous/tapas")
+devtools::install_github("Anonymous-staix/tapas")
 ```
 
 ##  How to use *tapas*
